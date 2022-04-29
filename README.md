@@ -17,7 +17,7 @@
 
   
 # Contributor
-* Taivon Edwards
+* Made BY: Taivon Edwards
 
 
 
