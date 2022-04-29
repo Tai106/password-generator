@@ -1,4 +1,18 @@
-// Assignment code here
+const lowercase = 'abcdefghijklmnopqrstuvwxyz';
+const uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+const numbers = '123456789';
+const specialCharacters = '!@#$%^&*_-+=';
+const storePassword = "generated password";
+const passLength = 0;
+const password = "";
+const allCharacters = "";
+
+var createPass = function () {
+  allCharacters = "";
+  password = "";
+}
+
+
 
 
 // Get references to the #generate element
