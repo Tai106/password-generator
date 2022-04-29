@@ -1,13 +1,13 @@
-const lowercase = 'abcdefghijklmnopqrstuvwxyz';
-const uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-const numbers = '123456789';
-const specialCharacters = '!@#$%^&*_-+=';
-const storePassword = "generated password";
-const passLength = 0;
-const password = "";
-const allCharacters = "";
+var lowercase = 'abcdefghijklmnopqrstuvwxyz';
+var  uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+var  numbers = '123456789';
+var  specialCharacters = '!@#$%^&*_-+=';
+var  storePassword = "generated password";
+var  passLength = 0;
+var  password = "";
+var  allCharacters = "";
 
-var createPass = function () {
+var  createPass = function () {
   allCharacters = "";
   password = "";
   passLength = 0;
