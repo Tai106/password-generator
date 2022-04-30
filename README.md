@@ -13,7 +13,7 @@
 * https://tai106.github.io/password-generator/
 
 # Screenshots
-* C:\Users\Taivon\Desktop\password gen.JPG
+* ![password gen](https://user-images.githubusercontent.com/92614793/166082999-f21e9a3e-63bc-4faf-821d-da6fe977be95.jpg)
 
   
 # Contributor
